@@ -1,0 +1,19 @@
+.analytics-container {
+    display: none;
+}
+
+.app-container .content-container .side-menu .navbar-header .navbar-brand {
+    height: 80px;
+    padding: 8px;
+}
+.app-container .content-container .side-menu .navbar-header .navbar-brand img {
+    width: 68px;
+    height: 68px;
+}
+.app-container .content-container .side-menu .navbar-header .navbar-brand .logo-icon-container {
+    width: 80px;
+    height: 80px;
+}
+.panel.widget.center.bgimage {
+    background-size: contain;
+}
